@@ -13,4 +13,7 @@ Practice project for learning github project management
  # Timeline- 
  Hour 2: first pull request merged
 
+ ## AUTHOR
+ this is Tasneem learning about git
+
 
