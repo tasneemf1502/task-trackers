@@ -14,6 +14,6 @@ Practice project for learning github project management
  Hour 2: first pull request merged
 
  ## AUTHOR
- This is Tasneem learning about git
+ This is Tasneem learning about git.
 
 
